@@ -1,0 +1,61 @@
+#header-words{
+	color: #006699;
+}
+
+#color-grey{
+	color: grey;
+}
+
+#color-orange{
+	color: #ff8100;
+}
+
+.btn{
+	border-radius: 5px !important;
+} 
+
+#other-selection{
+	margin-top: 15px;
+}
+
+#margin-14{
+	margin-right: 14px;
+	margin-left: 14px;
+}
+
+hr#hr-quest{
+    border-width: 1px;
+    max-width: 400px;
+    border-color: orange;
+}
+
+a#a-tooltip{
+	text-decoration:none;
+}
+
+a#a-tooltip:hover{
+	color: #ff1a00;
+}
+
+.tooltip{
+	max-width: 100% !important;
+	margin: 0 auto;
+    position: fixed;
+    top: 10px;
+}
+
+#nav {
+    /* height: 30em; */
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+p, i{
+	font-size:15px;
+}
+
+tr.spaceUnder>td {
+	padding-bottom: 1em;
+}
